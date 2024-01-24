@@ -2,14 +2,8 @@
 👨‍⚖️BOTPRESS É UMA PLATAFORMA DE DESENVOLVIMENTO DE CHATBOTS DE CÓDIGO ABERTO. ELE FORNECE FERRAMENTAS E RECURSOS PARA CRIAR, IMPLANTAR E GERENCIAR CHATBOTS EM VÁRIOS CANAIS DE COMUNICAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=botpress)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://botpress.com/docs/)
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLlJHGGklthGmK_GTzQn434EttMd3W3C6b&si=6fSO4qjh4D0FKAhk)
-
-<img src="https://seekvectorlogo.net/wp-content/uploads/2023/05/botpress-vector-logo.png" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 **Botpress:**
