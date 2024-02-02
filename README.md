@@ -1,11 +1,9 @@
 # CURSO DE BOTPRESS
 👨‍⚖️BOTPRESS É UMA PLATAFORMA DE DESENVOLVIMENTO DE CHATBOTS DE CÓDIGO ABERTO. ELE FORNECE FERRAMENTAS E RECURSOS PARA CRIAR, IMPLANTAR E GERENCIAR CHATBOTS EM VÁRIOS CANAIS DE COMUNICAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://botpress.com/docs/)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLlJHGGklthGmK_GTzQn434EttMd3W3C6b&si=6fSO4qjh4D0FKAhk)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 **Botpress:**
 Botpress é uma plataforma de código aberto que permite criar, implantar e gerenciar chatbots e assistentes virtuais. Ele oferece uma variedade de ferramentas e recursos para desenvolvedores e não desenvolvedores criarem chatbots altamente personalizados para uma ampla gama de casos de uso, como atendimento ao cliente, automação de tarefas, vendas, suporte técnico e muito mais.
 
@@ -23,8 +21,8 @@ Aqui estão alguns dos principais conceitos associados ao Botpress:
 
 6. **Slots:** Os "slots" são campos ou variáveis que podem ser preenchidos durante uma conversa com o usuário. Eles são usados para coletar informações e interagir de forma mais personalizada. Por exemplo, um slot pode ser usado para coletar o nome do usuário.
 
-# CARACTERISTICAS:
-## Características Positivas:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Código Aberto:** Botpress é uma plataforma de código aberto, o que significa que é gratuito para uso, personalização e modificação. Isso dá aos desenvolvedores uma grande flexibilidade para adaptar o bot de acordo com suas necessidades.
 
 2. **Comunidade Ativa:** Botpress possui uma comunidade ativa de desenvolvedores e usuários que contribuem com plugins, extensões e oferecem suporte na solução de problemas. Isso torna mais fácil obter ajuda e encontrar recursos adicionais.
@@ -37,7 +35,7 @@ Aqui estão alguns dos principais conceitos associados ao Botpress:
 
 6. **Suporte Multicanal:** Botpress pode ser implantado em diversos canais de comunicação, como sites, aplicativos móveis, Facebook Messenger, WhatsApp e outros. Isso permite alcançar os usuários onde eles preferem interagir.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Curva de Aprendizado:** Como qualquer plataforma de desenvolvimento, Botpress pode ter uma curva de aprendizado para iniciantes, especialmente se você não tem experiência anterior em programação ou chatbots. É necessário algum tempo para se familiarizar com a plataforma.
 
 2. **Requer Conhecimento Técnico:** Embora Botpress tenha uma interface de gerenciamento amigável, para aproveitar ao máximo a plataforma, pode ser necessário conhecimento em programação, JavaScript e Node.js.
@@ -47,4 +45,10 @@ Aqui estão alguns dos principais conceitos associados ao Botpress:
 4. **Recursos de NLP Limitados:** Embora o Botpress tenha um mecanismo de NLP integrado, ele pode não ser tão avançado quanto algumas outras soluções de NLP no mercado. Para casos de uso complexos, pode ser necessário considerar integrações com serviços NLP externos.
 
 5. **Documentação em Evolução:** A documentação do Botpress pode não ser tão abrangente como a de algumas outras plataformas, e você pode precisar recorrer à comunidade para obter informações adicionais.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "BOTPRESS"](https://youtube.com/playlist?list=PLlJHGGklthGmK_GTzQn434EttMd3W3C6b&si=6fSO4qjh4D0FKAhk)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://botpress.com/docs/)
+
 
