@@ -50,5 +50,5 @@ Aqui estão alguns dos principais conceitos associados ao Botpress:
 - [CURSO CRIADO PELO "BOTPRESS"](https://youtube.com/playlist?list=PLlJHGGklthGmK_GTzQn434EttMd3W3C6b&si=6fSO4qjh4D0FKAhk)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://botpress.com/docs/)
-
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:BOTPRESS)
 
